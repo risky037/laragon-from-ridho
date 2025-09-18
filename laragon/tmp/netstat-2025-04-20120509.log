@@ -1,0 +1,206 @@
+Tip: Run Laragon as Administrator when you want to see all processes.
+----------------------------------------------------------------------------
+  Proto  Local Address          Foreign Address        State           PID     Path
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       10688   c:\xampp\apache\bin\httpd.exe
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       1280
+  TCP    0.0.0.0:443            0.0.0.0:0              LISTENING       10688   c:\xampp\apache\bin\httpd.exe
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+  TCP    0.0.0.0:3306           0.0.0.0:0              LISTENING       7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       7892
+  TCP    0.0.0.0:28252          0.0.0.0:0              LISTENING       4764
+  TCP    0.0.0.0:33060          0.0.0.0:0              LISTENING       7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       1032
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       1012
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       2236
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       2872
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3904
+  TCP    0.0.0.0:49670          0.0.0.0:0              LISTENING       8
+  TCP    127.0.0.1:3306         127.0.0.1:50770        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50771        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50791        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50792        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50797        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50813        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50814        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50849        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50867        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50868        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50870        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50871        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50872        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50873        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50876        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50877        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50878        TIME_WAIT       0
+  TCP    127.0.0.1:3306         127.0.0.1:50879        TIME_WAIT       0
+  TCP    127.0.0.1:5037         0.0.0.0:0              LISTENING       3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  TCP    127.0.0.1:44950        0.0.0.0:0              LISTENING       4164    C:\Users\Thinkpad\AppData\Local\FigmaAgent\figma_agent.exe
+  TCP    127.0.0.1:44960        0.0.0.0:0              LISTENING       4164    C:\Users\Thinkpad\AppData\Local\FigmaAgent\figma_agent.exe
+  TCP    127.0.0.1:50110        127.0.0.1:50111        ESTABLISHED     3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  TCP    127.0.0.1:50111        127.0.0.1:50110        ESTABLISHED     3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  TCP    127.0.0.1:50198        0.0.0.0:0              LISTENING       4868    C:\Users\Thinkpad\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  TCP    127.0.0.1:50766        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50767        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50770        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50771        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50773        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50774        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50786        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50787        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50792        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50793        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50794        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50795        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50796        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50797        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50798        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50799        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50800        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50803        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50804        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50806        127.0.0.1:50805        TIME_WAIT       0
+  TCP    127.0.0.1:50808        127.0.0.1:50807        TIME_WAIT       0
+  TCP    127.0.0.1:50809        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50810        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50811        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50812        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50814        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50815        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50816        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50817        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50818        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50842        127.0.0.1:50843        ESTABLISHED     7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50843        127.0.0.1:50842        ESTABLISHED     7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50844        127.0.0.1:50845        ESTABLISHED     7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50845        127.0.0.1:50844        ESTABLISHED     7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    127.0.0.1:50851        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50852        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50869        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50871        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50874        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50875        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50878        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50880        127.0.0.1:3306         TIME_WAIT       0
+  TCP    127.0.0.1:50881        127.0.0.1:3306         TIME_WAIT       0
+  TCP    192.168.1.103:139      0.0.0.0:0              LISTENING       4
+  TCP    192.168.1.103:49408    4.213.25.242:443       ESTABLISHED     4920
+  TCP    192.168.1.103:50715    20.189.173.2:443       TIME_WAIT       0
+  TCP    192.168.1.103:50748    13.107.246.59:443      TIME_WAIT       0
+  TCP    192.168.1.103:50772    150.171.27.11:443      TIME_WAIT       0
+  TCP    192.168.1.103:50775    57.144.161.33:80       TIME_WAIT       0
+  TCP    192.168.1.103:50776    157.240.208.60:443     ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50777    172.64.41.3:443        TIME_WAIT       0
+  TCP    192.168.1.103:50778    172.64.41.3:443        TIME_WAIT       0
+  TCP    192.168.1.103:50779    150.171.69.254:443     TIME_WAIT       0
+  TCP    192.168.1.103:50780    150.171.22.254:443     TIME_WAIT       0
+  TCP    192.168.1.103:50782    68.221.64.26:443       TIME_WAIT       0
+  TCP    192.168.1.103:50783    204.79.197.222:443     TIME_WAIT       0
+  TCP    192.168.1.103:50801    20.42.73.28:443        ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50819    57.144.161.33:80       TIME_WAIT       0
+  TCP    192.168.1.103:50822    185.199.108.154:443    ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50824    140.82.114.21:443      ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50826    52.231.230.148:443     ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50827    13.33.183.60:443       ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50830    204.79.197.219:443     ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50831    204.79.197.219:443     ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50833    20.42.73.25:443        ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50838    172.64.41.3:443        ESTABLISHED     9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  TCP    192.168.1.103:50839    172.64.41.3:443        ESTABLISHED     9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  TCP    192.168.1.103:50840    131.253.33.254:443     ESTABLISHED     9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  TCP    192.168.1.103:50841    204.79.197.222:443     ESTABLISHED     9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  TCP    192.168.1.103:50848    57.144.161.33:80       TIME_WAIT       0
+  TCP    192.168.1.103:50850    140.82.113.25:443      ESTABLISHED     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    192.168.1.103:50853    157.240.13.54:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50854    157.240.7.54:443       ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50855    57.144.101.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50856    57.144.187.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50857    57.144.193.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50858    57.144.145.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50859    157.240.15.60:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50860    57.144.151.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50861    57.144.153.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50862    57.144.161.32:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50863    157.240.13.54:443      ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.1.103:50864    31.13.95.60:443        ESTABLISHED     10724   C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2515.7.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+  TCP    192.168.56.1:139       0.0.0.0:0              LISTENING       4
+  TCP    192.168.77.2:139       0.0.0.0:0              LISTENING       4
+  TCP    [::]:80                [::]:0                 LISTENING       10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::]:135               [::]:0                 LISTENING       1280
+  TCP    [::]:443               [::]:0                 LISTENING       10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::]:445               [::]:0                 LISTENING       4
+  TCP    [::]:3306              [::]:0                 LISTENING       7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    [::]:33060             [::]:0                 LISTENING       7736    C:\laragon\bin\mysql\mysql-8.0.30-winx64\bin\mysqld.exe
+  TCP    [::]:49664             [::]:0                 LISTENING       1032
+  TCP    [::]:49665             [::]:0                 LISTENING       1012
+  TCP    [::]:49666             [::]:0                 LISTENING       2236
+  TCP    [::]:49667             [::]:0                 LISTENING       2872
+  TCP    [::]:49668             [::]:0                 LISTENING       3904
+  TCP    [::]:49670             [::]:0                 LISTENING       8
+  TCP    [::1]:80               [::1]:50765            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50769            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50784            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50785            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50788            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50789            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50790            TIME_WAIT       0
+  TCP    [::1]:80               [::1]:50846            FIN_WAIT_2      10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::1]:80               [::1]:50847            FIN_WAIT_2      10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::1]:80               [::1]:50865            FIN_WAIT_2      10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::1]:80               [::1]:50866            FIN_WAIT_2      10688   c:\xampp\apache\bin\httpd.exe
+  TCP    [::1]:49669            [::]:0                 LISTENING       4484
+  TCP    [::1]:50820            [::1]:3306             TIME_WAIT       0
+  TCP    [::1]:50846            [::1]:80               CLOSE_WAIT      11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    [::1]:50847            [::1]:80               CLOSE_WAIT      11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    [::1]:50865            [::1]:80               CLOSE_WAIT      11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  TCP    [::1]:50866            [::1]:80               CLOSE_WAIT      11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5050           *:*                                    7892
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    0.0.0.0:5353           *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    1876
+  UDP    0.0.0.0:5353           *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:5353           *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    0.0.0.0:5355           *:*                                    1876
+  UDP    0.0.0.0:28252          *:*                                    4764
+  UDP    0.0.0.0:50857          162.159.61.3:443                       11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:54371          *:*                                    1876
+  UDP    0.0.0.0:55486          172.64.41.3:443                        11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    0.0.0.0:55838          172.64.41.3:443                        9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  UDP    0.0.0.0:57137          23.56.239.91:443                       9628    C:\Program Files (x86)\Microsoft\EdgeWebView\Application\135.0.3179.85\msedgewebview2.exe
+  UDP    0.0.0.0:63698          142.251.12.190:443                     11544   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    127.0.0.1:1900         *:*                                    2828
+  UDP    127.0.0.1:51200        *:*                                    2828
+  UDP    127.0.0.1:53485        127.0.0.1:53485                        4476
+  UDP    192.168.1.103:137      *:*                                    4
+  UDP    192.168.1.103:138      *:*                                    4
+  UDP    192.168.1.103:1900     *:*                                    2828
+  UDP    192.168.1.103:51199    *:*                                    2828
+  UDP    192.168.56.1:137       *:*                                    4
+  UDP    192.168.56.1:138       *:*                                    4
+  UDP    192.168.56.1:1900      *:*                                    2828
+  UDP    192.168.56.1:51197     *:*                                    2828
+  UDP    192.168.77.2:137       *:*                                    4
+  UDP    192.168.77.2:138       *:*                                    4
+  UDP    192.168.77.2:1900      *:*                                    2828
+  UDP    192.168.77.2:51198     *:*                                    2828
+  UDP    [::]:5353              *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    [::]:5353              *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    [::]:5353              *:*                                    1876
+  UDP    [::]:5353              *:*                                    3148    C:\Users\Thinkpad\AppData\Local\Android\sdk\platform-tools\adb.exe
+  UDP    [::]:5353              *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    [::]:5353              *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    [::]:5353              *:*                                    11316   C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  UDP    [::]:5355              *:*                                    1876
+  UDP    [::]:54371             *:*                                    1876
+  UDP    [::1]:1900             *:*                                    2828
+  UDP    [::1]:51196            *:*                                    2828
+  UDP    [fe80::755b:9401:61f:d0e8%2]:1900  *:*                                    2828
+  UDP    [fe80::755b:9401:61f:d0e8%2]:51194  *:*                                    2828
+  UDP    [fe80::9875:6e9:bbcb:5c7d%21]:1900  *:*                                    2828
+  UDP    [fe80::9875:6e9:bbcb:5c7d%21]:51195  *:*                                    2828
+  UDP    [fe80::bdb9:7938:d51:95f4%13]:1900  *:*                                    2828
+  UDP    [fe80::bdb9:7938:d51:95f4%13]:51193  *:*                                    2828

@@ -1,0 +1,1156 @@
+|CTAG_1663167284_18455859_4204_0
+|ode -v
+|ode -v
+|ode -v
+|ode -v
+|ode -v
+|d
+s
+|s
+Coba_Portofolio
+|d Coba_Portofoli
+s Coba_Portofoli
+|d Coba_Portofolio
+npm init -y
+c
+D
+C
+|pm install -D tailwindcss postcss autoprefixer
+|px tailwindcss init
+|pm install -D tailwindcss
+|px tailwindcss init
+|px tailwindcss -i ./src/input.css -o ./src/output.css --watch
+|px tailwindcss -i ./src/input.css -o ./src/output.css --watch
+|s
+|d Coba_Portofolio
+|pm run dev
+|ode -v
+|ode -v
+nom run dev
+|pm run dev
+|s
+|d Coba_Portofolio
+|pm run dev
+|s
+cd Coba_Portofoli
+|d Coba_Portofolio
+|pm run dev
+|s
+|d Coba_Portofolio
+|pm run dev
+cd Coba_Portofolio
+|pm run dev
+|s
+|d portofolio-realcuy
+|pm install -D tailwindcss
+|px tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+|d portofolio-realcuy
+|pm run dev
+|d portofolio-realcuy
+|pm run dev
+|d portofolio-realcuy
+|pm run dev
+git-v
+git -v
+|ode -v
+|s
+cd Nyobo
+npm install -D tailwindcss
+npx tailwindcss init
+mysql -u
+|ysql -u root
+|ysql -u root
+|s
+|d portofolio-realcuy
+|ysql -u root
+|ode -v
+|omposer -v
+composer create-project laravel/laravel example-app
+composer create-project laravel/laravel laravel11
+|hp -v
+|ode -v
+|hp -v
+composer create-project laravel/laravel try-laravel
+cd try-laravel\
+|hp artisan serve
+cd try-laravel
+|s
+|d example-app
+|hp artisan serve
+|omposer -v
+|ysql -u root -p
+|ysql -u root -p
+|hp artisan serve
+|ysql -u root
+|hp artisan migrate
+show tables;
+|ysql -u root
+|hp artisan serve
+|omposer require filament/filament:"^3.2" -W
+|hp artisan filament:install --panels
+|hp artisan make:filament-user
+|hp artisan make:model Jurusan -m
+php artisan make:model Mahasiswa -m
+|hp artisan make:filament-resource Jurusan
+|ysql -u root
+php artisan tinker
+|hp artisan migrate
+|hp artisan migrate:rollback
+|hp artisan migrate
+|hp artisan migrate:rollback
+|hp artisan migrate
+|s
+|d example-app
+|hp artisan ser
+cd coba-laravel
+|hp artisan serve
+|hp artisan migrate
+|omposer require filament/filament:"^3.2" -W
+|d example-app
+php artisan make:filament-resource Mahasiswa
+|d example-app
+php artisan migrate:rollback
+|hp artisan migrate
+|hp artisan migrate
+php -m | grep intl
+cd tes
+|s
+cd cek
+|omposer require filament/filament:"^3.2" -W
+php artisan mirate
+|hp artisan migrate
+   INFO  Nothing to migrate.
+|hp artisan migrate:status
+|hp artisan make:filament-user
+php artisan make:filament -user
+|hp artisan make:filament-user
+|omposer require filament/filament:"^3.2" -W
+|hp artisan filament:install --panels
+|hp artisan filament:install --panels
+|hp artisan filament:install --panels
+|lear
+|hp artisan serve
+|hp artisan migrate
+|hp artisan filament:install --panels
+|hp artisan migrate
+|d bismillah-success
+|d bismillah-success
+|hp artisan ser
+|hp artisan migrate
+composer --version
+|omposer -v
+|omposer require filament/filament:"^3.2" -W
+|hp artisan filament:install --panels
+|hp artisan make:filament-user
+|hp artisan make:model Student -m
+|hp artisan make:model Major -m
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan make:filament-resource Major
+|s
+|ysql -u root
+|d bismillah_success
+|d bismillah-success
+|hp artisan serve
+cd bismillah_success
+cd bismillah-success
+|hp artisan migrate
+cd saturday-can
+|omposer -v
+|omposer require filament/filament:"^3.2" -W
+|hp artisan filament:install --panels
+|hp artisan make:filament-user
+|hp artisan make:model Major -m
+|hp artisan make:model Student -m
+|hp artisan make:filament-resource Major
+|hp artisan make:filament-resource Student
+|hp artisan migrate
+cd terus-mencoba
+|hp artisan migrate
+php artisan seve
+|hp artisan serve
+|q
+|d portofolio-realcuy
+|s
+|d
+|d..
+cd\
+|d
+|d portofolio-realcuy
+cd laragon\www
+cd portofolio-realcuy
+|d..
+cd try-again
+|hp artisan ser
+composer create-project laravel/laravel
+|hp artisan ser
+|omposer install
+|d..
+|s
+rm -r tru-again
+rm -r try-again
+cd just-once
+|omposer require filament/filament:"^3.2" -W
+ 
+|hp artisan filament:install --panels
+|hp artisan make:filament-user
+php artisan make:model Major -m
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan make:model Student -m
+|hp artisan migrate
+|hp artisan migrate
+php artisan make:filament-resource Major
+|hp artisan make:filament-resource Student
+|hp artisan migrate
+|hp artisan migrate
+desc students
+|ysql -u root
+php artisan make:model Teacher -m
+php artisan make:filament-resource Teacher
+|hp artisan migrate
+cd..
+cd once-again
+|omposer require filament/filament:"^3.2" -W
+|hp artisan filament:install --panels
+|hp artisan make:filament-user
+php artisan make:model Jurusan -m
+php artisan make:model Student -m
+php artisan migration
+|hp artisan migrate
+php artisan make:filament-resource Jurusan
+php artisan make:filament-resource Student
+|hp artisan migrate
+php artisan make:migration add_name_to_jurusans_table --table=jurusans
+|hp artisan migrate
+php artisan migrate:refresh
+|d laravel-sandhika
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+|pm run dev
+cd cd laravel-sandhika
+|s
+|d laravel-sandhika
+|ode .
+|pm install
+|pm run build
+|pm run dev
+|s
+|d laravel-sandhika
+|pm run dev
+|ode .
+|pm run dev
+|d laravel-sandhika
+|pm run dev
+|./
+flutter create flutter-restapi
+flutter create flutter_restapi
+|s
+|d flutter_restapi
+|ode .
+|lutter pub add google_fonts
+start ms-settings:developers
+flutter pub outdated
+flutter pub upgrade
+flutter pub add google_fonts
+flutter pub add provider
+flutter pub add http
+flutter config --enable-web
+flutter devices
+|lutter run -d edge --web-port=8081
+|lutter run -d edge --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+cd flutter_api
+|d flutter_restapi
+|lutter run -d edge --web-port=8081
+flutter run -d edge --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome --web-port=8081
+|lutter run -d chrome
+|lutter run -d chrome
+|lutter run -d chrome
+flutter run -d chrome --web-port=8081
+|lutter run -d chrome
+|d flutter_restapi
+flutter run -d edge
+flutter run -d chrome
+cd
+|d laravel-sandhika
+|pm run dev
+cd laravel-sandhika 
+|pm run dev
+|d laravel-sandhika
+|pm run dev
+cd laravel-sandhika
+|ode .
+|pm run dev
+python -v
+python
+|s
+cd laravel-api
+code.
+|ode .
+|s
+|/
+|s
+cd flutter_restapi
+|ode .
+mysql -u root -p
+|s
+|d P_portofolio-realcuy\
+|pm run dev
+|s
+|d real-project\
+|hp artisan ser
+|ode -v
+composer --v
+|omposer -v
+cd P_portofolio-realcuy\
+|pm run dev
+|d real-project\
+|hp artisan ser
+laravel new
+composer global require laravel/installer
+laravel new example-app
+cd example-app
+npm install && npm run build
+composer run dev
+|./
+rm example-app\
+rm example-app
+    rmdir /s /q example-app
+|s
+cd C:\Users\Thinkpad\Documents\Projects\P_Kenalan-Laravel\Public-Complaints
+|ode .
+cd p
+composer  create-project laravel/laravel . --prefer-dist
+composer  create-project laravel/laravel contoh --prefer-dist
+|d ..
+|d ..
+|d ..
+cd C:\Users\Thinkpad\Documents\Projects\P_JokeAPI
+install -g sass
+npm install -g sass
+|pm fund
+|ode .
+sass --version
+|ass style.scss style.css
+sass style.scss style.css
+|s
+cd real-project
+|ode .
+|ysql
+|ysql -u root
+|d Perpindahan-Masyarakat\
+|hp artisan migrate
+|hp artisan ser
+|hp artisan migrate
+|hp artisan migrate
+laravel -v
+|aravel --version
+laravel version
+laravel -v, --version
+laravel --version
+|hp artisan migrate
+|hp artisan ser
+cd Perpindahan-Masyarakat\
+|s
+|d resources\
+|d views\
+cd permohonans\
+|s
+cd index.blade.php
+|ode .
+q
+/q
+\q
+./
+|./
+|./
+|./
+|ode .
+|d FinalAdoptCat\
+|hp artisan ser
+|s
+|d laravel-sandhika\
+|ode .
+|hp artisan make:filament-relation-manager CommentResource post name
+|d FinalAdoptCat\
+php artisan make:filament-relation-manager CommentResource post name
+php artisan make:filament-relation-manager AdopiPostResource cat
+composer dump-autoload
+|s
+|d app
+|s
+|d Filament\
+|s
+|d Resources\
+|s
+|d AdopsiPostResource\
+|s
+|d FinalAdoptCat\
+|s
+cd app
+cd Filament\
+|s
+cd Resources\
+|s
+|s
+cd AdopsiPostResource\
+|s
+|d FinalAdoptCat\
+|hp artisan ser
+php --v
+php pv
+php
+|hp -v
+|hp --version
+|ode -v
+|ode --version
+|omposer
+|lear
+php --version
+|omposer
+|ode -v
+|pm -v
+node --version
+|ode -v
+|d FinalAdoptCat\
+|ode .
+|hp artisan make:filament-user
+|ysql -u root
+|ysql -u root
+|./
+|./
+|s
+|d Users\
+|s
+cd Thi
+CD Thinkpad\
+|s
+|d Documents\
+|s
+|d Projects\
+|s
+cd Proje
+cd Projek
+|s
+cd noob\
+|pm install
+|pm run dev
+|pm run dev
+|./
+|ode .
+|./
+|./
+|d Projects\
+|s
+cd Project Online Store
+|ode .
+|d FinalAdoptCat\
+|ode .
+|hp artisan ser
+|s
+cd laravel-sandhika\
+|ode .
+|./
+|d FinalAdoptCat\
+npm install flowbite
+cd C:\Users\Thinkpad\Documents\Dashboard Templates\flowbite-admin-dashboard-main
+|pm run dev
+|ode .
+|pm run dev
+npm run
+npm run start:dev:webpack
+|pm install
+|pm run start
+|px webpack --mode=development --watch
+choco install hugo
+npx webpack --mode=development --watch
+|pm run start
+hugo
+|pm run start
+|pm run start
+npx browserslist@latest --update-db
+|pm run start
+ webpack-dev-server is running at:
+http://localhost:8080/
+npm install --save-dev webpack-dev-server
+|pm install
+npm run start
+cd C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main
+|pm run build
+|p .env.example .env
+|hp artisan key:generate
+php artisan serve 
+composer install npm install
+|omposer install
+|pm install
+|pm audit fix
+|pm audit
+|pm run build
+|p .env.example .env
+|hp artisan key:generate
+|hp artisan ser
+|ode .
+|pm run dev
+|d FinalAdoptCat\
+npm install preline
+|pm run dev
+|pm run dev
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+|d resources\
+|s
+cd views
+|s
+|d components\
+|s
+|./
+|./
+|./
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+cd app\
+cd Http\
+cd Controllers\
+|s
+|./
+|./
+cd Models\
+|s
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+|hp artisan ser
+|ysql -u root
+|d FinalAdoptCat\
+|pm run dev
+php -i | grep libxml
+|d FinalAdoptCat\
+|ode .
+|hp artisan view:clear
+php artisan migrate --path=/database/migrations/2024_11_05_134414_create_posts_table.php
+php artisan migrate:status
+php artisan make:controller CommentController
+cd finaladoptcat
+|pm run dev
+|ysql -u root
+|d FinalAdoptCat\
+|hp artisan ser
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+nrd
+|pm run dev
+|d FinalAdoptCat\
+|pm run dev
+d FinalAdoptCat\
+|pm run dev
+|pm run dev
+|pm run dev
+|d FinalAdoptCat\
+|pm run dev
+|hp artisan ser
+|d FinalAdoptCat\
+|pm run build
+|pm run dev
+|d FinalAdoptCat\
+|omposer require livewire/livewire
+php artisan livewire:layout
+|pm run build
+|pm run dev
+cs ../
+|./
+|./
+|./
+|s
+cd Windows\
+|s
+|./
+|s
+|d Users\
+|s
+cd thi
+|d Thinkpad\
+|s
+|d Documents\
+|s
+cd Projects\
+|s
+cd P_Kenalan-Laravel\
+|s
+cd Public-Complaints\
+|ode .
+|d FinalAdoptCat\
+|pm run dev
+|ode .
+|pm run dev
+|d FinalAdoptCat\
+|ysql -u root
+|ysql -u root
+|d FinalAdoptCat\
+php artisan make:filament-relation-manager AdopsiPosts --resource=CatResource
+php artisan make:filament-relation-manager CatResource adopsiPost status
+|pm run dev
+|d FinalAdoptCat\
+|ysql -u root
+|pm run dev
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+|ysql -u root
+|ode .
+ FinalAdoptCat\
+npm run de
+|pm run dev
+|ysql -u root
+|d FinalAdoptCat\
+|ode .
+|pm run dev
+|ysql -u root
+|d FinalAdoptCat\
+|hp artisan make:filament-user
+|hp artisan make:filament-user
+|d FinalAdoptCat\
+|ode .
+|pm run dev
+|d FinalAdoptCat\
+|ysql -u root
+|hp artisan ser
+|ysql -u root
+cd FinalAdoptCat\cd adop
+|d FinalAdoptCat\
+|ode .
+|pm run dev
+|ysql -u root
+|d FinalAdoptCat\
+|pm run build
+|ysql -u root
+mysql 0u root
+|ysql -u root
+|d FinalAdoptCat\
+|pm run dev
+|d FinalAdoptCat\
+|pm run build
+|d aplikasi-kasir\
+php artisan route:clear
+|hp artisan cache:clear
+|hp artisan config:clear
+|hp artisan view:clear
+php artisan clear-compiled
+|hp artisan optimize:clear
+npm install jquery
+php artisan route:list
+|d ../
+git clone https://github.com/azis552/kasir-laravel.git
+|d kasir-laravel
+|s
+git clone --depth 1 https://github.com/azis552/kasir-laravel.git
+cd kasir-laravel
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+|ode .
+|hp artisan migrate
+|hp artisan migrate
+|hp artisan serve
+|hp artisan serve
+|hp artisan serve
+|pm install
+|pm audit
+|pm audit fix
+|hp artisan ser
+|pm run dev
+|d ..
+|s
+cd bin\
+|s
+cd mysql\
+|ysql -u root
+|ysql -u root
+|ysql -u root
+|d FinalAdoptCat\
+|ode .
+|d ..
+|s
+|d real-project\
+|hp artisan ser
+cd real-project\
+|hp artisan make:filament-user
+|ysql -u root
+mysql-u root
+|ysql -u root
+|d FinalAdoptCat\
+|ode .
+cd resources\
+|s
+cd views\
+cd components\
+|s
+|d MyField\
+|ode .
+|d ..
+|d FinalAdoptCat\
+|ode .
+|d ..
+cd MyField\
+|ode .
+|hp artisan ser
+|d ..
+|s
+cd flutter_restapi\
+flutter run -d chrome --web-port-8081
+|ode .
+cd FinalAdoptCat\
+|pm run dev
+laravel new livewire-task
+cd livewire-task
+|hp artisan ser
+|hp artisan migrate
+|hp artisan ser
+cd livewire-task\
+|ode .
+composer require livewire/livewire
+|ode .
+|hp artisan ser
+|s
+|./
+|./
+|s
+|d Users\
+|s
+|d Thinkpad\
+|s
+|d Documents\
+|d Code\
+cd finaladoptcat-app\
+|p .env.example .env
+|ode .
+|hp artisan key:generate
+|hp artisan ser
+|pm run build
+|pm run dev
+|hp artisan ser
+node -v
+npm -v
+|./
+../
+cd Users\Thinkpad\Documents\Code\finaladoptcat-app
+|pm install
+npm fund
+npm audit
+|pm audit fix
+|p .env.example .env
+|hp artisan key:generate
+|hp artisan migrate --seed
+|ode .
+|hp artisan migrate --seed
+|hp artisan serve
+npm run build
+|hp artisan config:clear
+|hp artisan cache:clear
+|hp artisan view:clear
+php artisan serve
+|s
+cd si-ppdb-master\
+|hp -v
+|omposer install
+composer -v
+|omposer update
+|pm install
+npm audit fix
+|p .env.example .env
+|hp artisan key:generate
+|hp artisan migrate
+|hp artisan config:clear
+|hp artisan cache:clear
+|hp artisan view:clear
+|hp artisan key:generate
+mkdir -p storage/framework/cache storage/framework/sessions storage/framework/views
+chmod -R 775 storage
+|hp artisan key:generate
+|hp artisan migrate
+|hp artisan config:clear
+composer clear-cache
+|omposer install
+mkdir storage
+|kdir storage\framework
+|kdir storage\framework\cache
+|kdir storage\framework\sessions
+|kdir storage\framework\views
+|hp artisan key:generate
+|hp artisan migrate
+|hp artisan ser
+artisan
+php artisan
+|hp -v
+|d ..
+|s
+git clone https://github.com/smeducative/ppdb.git cd ppdb
+git clone https://github.com/smeducative/ppdb.git
+cd ppdb
+|omposer install
+|omposer install
+|hp -v
+|omposer install
+|hp -v
+|ode .
+|hp -v
+cd ppdb\
+|hp -v
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+|ode .
+|hp artisan migrate
+npm install
+npm run dev
+|s
+|d ..
+|d ..
+|s
+|d Users\
+|s
+|d Thinkpad\
+|s
+|d Documents\
+|s
+cd Flutter\
+cd doctor_appointment_tasks\
+|s
+|s
+|s
+cd doctor-app-laravel\
+php artisan jetstream:install livewire
+php artisan vendor:publish --tag=jetstream-views
+php artisan vendor:publish --provider="Laravel\Fortify\FortifyServiceProvider"
+php artisan vendor:publish --provider="Laravel\Sanctum\SanctumServiceProvider"
+|hp artisan ser
+|d food-store\
+|omposer require midtrans/midtrans-php:2.6.1
+composer require midtrans/midtrans-php:2.6.1
+|d food-store\
+composer require filament/filament:"^3.2" -W
+php artisan filament:install --panels
+php -v
+composer global show --latest
+composer about
+|hp artisan ser
+|d food-store\
+|hp artisan make:filament-user
+php artisan make:filament-resource Category
+php artisan make:filament-resource Product
+php artisan make:filament-resource Slider
+php artisan make:filament-resource Cart
+php artisan make:filament-resource Transaction
+php artisan make:filament-page ViewTransaction --resource=TransactionResource --type=ViewRecord
+php artisan make:filament-resource Rating
+php artisan make:filament-resource Customer
+|d food-store\
+composer
+composer upgrade
+|d food-store\
+|hp artisan ser
+|d food-store\
+|hp artisan config:clear
+|hp artisan cache:clear
+|hp artisan view:clear
+|hp artisan ser
+cd food-store\
+|d aplikasi-kasir\
+|ode .
+cd peduli_masyarakat\
+|ode .
+|hp artisan migrate
+|d ..
+|d ..
+|s
+|d Users\
+|s
+|d Thinkpad\
+|s
+cd Do
+|d Documents\
+|s
+|d Code\
+clear
+|s
+|d project-KMB\
+|hp artisan config:clear php artisan route:clear php artisan cache:clear php artisan view:clear php artisan optimize
+|hp artisan ser
+|s
+|d ../
+|d ../
+|s
+cd Users\
+|s
+cd Thinkpad\
+|s
+cd Documents\
+|s
+cd Code\
+cd uas-nexora\
+php -S localhost:8000
+|d aplikasi-kasir\
+|ode .
+|d aplikasi-kasir\
+|ode .
+|hp artisan config:clear php artisan route:clear php artisan cache:clear php artisan view:clear php artisan optimize
+|hp artisan config:clear
+|d aplikasi-kasir\
+|ode .
+|d aplikasi-kasir\
+|ode .
+mysql
+C:\laragon\www λ mysql ERROR 1045 (28000): Access denied for user 'ODBC'@'localhost' (using password: NO)
+|ysql -u root
+|ysql -u root
+cd aplikasi-kasir\
+|hp artisan ser
+|d kamcup-laravel\
+|ode .
+|d kamcup-laravel\
+|ode .
+|d ../
+|s
+|it clone https://github.com/IMVERBILIUS/Kamcup.git
+|d kamcup
+|omposer install
+|p .env.example .env
+|ode .
+|hp artisan key:generate
+php artisan config:clear
+php artisan cache:clear
+php artisan view:clear
+|d kamcup
+|hp artisan ser
+|d kamcup
+|hp artisan ser
+|d kamcup
+|ode .
+|d kamcup-laravel\
+|s
+|d ..
+|d kamcup
+cd ../
+cd kamcup-laravel\
+git init
+git add .
+git commit -m "init"
+git branch -M main
+git remote add origin https://github.com/Ridhsuki/kamcup-article.git
+git push -u origin main
+|s
+|d kamcup\
+|s
+|ode .
+cd pustaka-laravel\
+|it pull
+|d ..
+|d kamcup\
+|ode .
+|d kamcup\
+|ode .
+d kamcup\
+|ode .
+|d kamcup\
+|ode .
+|it status
+|d kamcup\
+|ode .
+|d kamcup\
+|ode .
+|d kamcup\
+|ode .
+|d kamcup\
+|ode .
+|d kamcup\
+|ode .
+|d ..
+|it clone https://github.com/IMVERBILIUS/indiegologi_laravel.git
+|d indiegologi_laravel\
+|omposer install
+cd .env.example .env
+|p .env.example .env
+|ode .
+|d sista\
+|ode .
+|d kamcup\
+|it pull
+|d sista\
+|hp artisan config:clear php artisan route:clear php artisan cache:clear php artisan view:clear php artisan optimize
+|hp artisan ser
+cd kamcup\
+|it pull
+|hp artisan ser
+|d sista\
+|ode .
+|it clone https://github.com/IMVERBILIUS/Kersa_2.0.git
+|d Kersa_2.0\
+|d ..
+|d kersa_2.0\
+|omposer install
+cd kersa_2.0\
+|d ..
+|it clone https://github.com/IMVERBILIUS/Kersa_2.0.git
+|d kersa
+php artisan optimize:clear
+|d ..
+|d Kersa_2.0\
+|omposer install
+|d Kersa_2.0\
+|omposer install
+|s
+git clone https://github.com/IMVERBILIUS/Kersa_2.0.git
+|d Kersa_2.0\
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+|ode .
+|d ..
+cd kersa
+|ode .
+|ysql -u root
+|d sista\
+|ode .
+|d Kersa_2.0\
+|it pull
+|hp artisan migrate
+|ode .
+|d Kersa_2.0\
+|it pull
+|d Kersa_2.0\
+|it pull
+|ode Kersa_2.0\
+|d sista\
+|it pull
+|ode .
+php artisan storage:link
+|d kamcup
+|it pull
+|d Kersa_2.0\
+|ode .
+|it pull
+|it pull
+|d ..
+|ode sista\
+|ode kamcup
+|ode kamcup\
+|ode kamcup\
+|ode kamcup\
+|ode sista\
+|ode kamcup\
+|ode sista\
+|ode Kersa_2.0\
+cd Kersa_2.0\
+|it status
+|it pull
+cd ..\kamcup\
+|it pull
+|d ..
+cd sista\
+|it pull
+|ode .
+|s
+git clone https://github.com/ocikyamin/PHP-Native-Simple-Bimbingan-Skripsi-Online.git
+|s
+cd PHP-Native-Simple-Bimbingan-Skripsi-Online\
+|ode .
+cd ..
+git clone https://github.com/Ridhsuki/project-KMB.git
+cd project-KMB\
+|ode .
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+php artisan migrate
+php artisan make:filament user
+php artisan make:filament-user
+|hp artisan ser
+|ode kamcup\
+de kamcup\
+code kamcup\
+|it clone https://github.com/IMVERBILIUS/Kamcup.git
+git clone https://github.com/IMVERBILIUS/Kamcup.git
+|d kamcup
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+|ode .
+|hp artisan ser
+|hp artisan key:generate
+|hp artisan ser
+mkdir -p storage/framework/sessions
+mkdir -p storage/framework/views
+mkdir -p storage/framework/cache
+mkdir -p storage/logs
+.....
+code kamcup-old\
+|d kamcup
+mkdir storage\framework
+mkdir storage\framework\sessions
+mkdir storage\framework\views
+mkdir storage\framework\cache
+mkdir storage\logs
+|hp artisan ser
+|d kamcup
+ls
+git status
+git remote -v
+|it pull
+|it pull
+|d kamcup
+|it pull
+|ode sista\
+git clone https://github.com/arlia23/logbook-laravel.git
+|d logbook-laravel\
+|omposer install
+|p .env.example .env
+|hp artisan key:generate
+|ode .
+php artisan migrate --seed
+git clone https://github.com/IMVERBILIUS/indiegologi_laravel.git
+cd indiegologi_laravel\
+composer install
+php artisan -v
+php artisan --version
+|p .env.example .env
+|ode .
+cp .env.example .env
+php artisan key:generate
+|hp artisan ser
+|hp artisan ser
+composer update
+code Kersa_2.0\
+|ode indiegologi_laravel\
+code indiegologi_laravel\
+code sista\
+|ode kamcup
+|ode sista
+|ode sista
+|ode kamcup
+|ode kamcup
+|ode sista
+mysql -u root
+cd logbook-laravel\
+|it pull
+git stash
+git pull
+code .
+php artisan config:clear php artisan route:clear php artisan cache:clear php artisan view:clear php artisan optimize
+|ode sista
+cd kamcup
+php artisan ser
+code kamcup
+code sista

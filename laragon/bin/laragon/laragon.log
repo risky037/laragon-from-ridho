@@ -1,0 +1,41 @@
+2024-08-27 16:24:09: Init DataDir at: C:\laragon\data\mysql-8
+2024-09-11 06:51:36: nothing
+2024-09-11 06:51:38: nothing
+2024-09-11 06:51:53: nothing
+2024-09-11 06:51:54: nothing
+2024-09-11 07:16:36: nothing
+2024-09-11 07:16:44: nothing
+2024-09-11 10:03:24: nothing
+2024-09-11 10:04:52: nothing
+2024-09-11 10:04:54: nothing
+2024-09-12 16:52:52: nothing
+2024-09-12 16:53:00: nothing
+2024-09-12 17:46:20: nothing
+2024-09-12 19:54:51: nothing
+2024-09-12 20:01:17: nothing
+2024-09-30 16:39:23: nothing
+2024-09-30 16:39:40: nothing
+2024-09-30 16:40:00: nothing
+2024-11-20 21:06:08: nothing
+2024-11-20 21:06:10: nothing
+2024-11-20 21:06:14: nothing
+2024-11-20 21:07:09: nothing
+2024-11-20 21:10:53: nothing
+2024-12-13 23:08:04: Skip creating auto virtual host for "Punya Rehan" because the name is invalid.
+2025-01-31 23:06:55: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2025-02-22 16:30:22: nothing
+2025-02-22 16:40:26: Could not file correspond mod_fcgid for Apache
+2025-02-22 16:40:26: Could not file correspond mod_fcgid for Apache
+2025-02-22 17:10:25: Could not file correspond mod_fcgid for Apache
+2025-02-22 17:10:25: Could not file correspond mod_fcgid for Apache
+2025-02-22 17:50:56: Could not file correspond mod_fcgid for Apache
+2025-02-22 18:04:16: Could not file correspond mod_fcgid for Apache
+2025-02-22 18:07:09: nothing
+2025-03-22 13:20:21: nothing
+2025-04-20 12:04:28: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 
+2025-06-23 08:32:22: nothing
+2025-09-07 10:59:36: There is an exception: Cannot open file "C:\laragon\usr\Procfile". The process cannot access the file because it is being used by another process
+2025-09-11 17:56:46: Graceful shutdown failed!!! Did you change the root's password? - trying to force it shutdown...
+ERROR: 

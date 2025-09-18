@@ -1,0 +1,22 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+
+class Post extends Model
+{
+    use HasFactory;
+
+    // protected $primaryKey = 'post_id';
+    protected $fillable = [
+        'title', 'author', 'slug', 'body'
+    ];
+
+    public function author(): BelongsTo
+    {
+        return $this->belongsTo(User::class);
+    }
+}

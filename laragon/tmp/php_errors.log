@@ -1,0 +1,804 @@
+[11-Sep-2024 00:03:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[11-Sep-2024 00:03:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[11-Sep-2024 00:17:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[11-Sep-2024 00:17:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[11-Sep-2024 02:25:11 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[11-Sep-2024 02:27:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'curl' (tried: C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\curl (The specified module could not be found), C:/laragon/bin/php/php-8.3.11-Win32-vs16-x64/ext\php_curl.dll (The specified procedure could not be found)) in Unknown on line 0
+[12-Sep-2024 14:17:49 UTC] PHP Warning:  require_once(C:\laragon\www\cek/bootstrap/app.php): Failed to open stream: No such file or directory in C:\laragon\www\cek\artisan on line 12
+[12-Sep-2024 14:17:49 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\cek/bootstrap/app.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\cek\artisan:12
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\cek\artisan on line 12
+[14-Sep-2024 04:57:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\saturday-can\app\Filament\Resources\StudentResource.php on line 40
+[14-Sep-2024 04:57:52 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\saturday-can\app\Filament\Resources\StudentResource.php on line 40
+[14-Sep-2024 14:08:28 UTC] PHP Warning:  require(C:\laragon\www\terus-mencoba/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:08:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\terus-mencoba/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\terus-mencoba\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:08:42 UTC] PHP Warning:  require(C:\laragon\www\terus-mencoba/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:08:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\terus-mencoba/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\terus-mencoba\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:08:47 UTC] PHP Warning:  require(C:\laragon\www\terus-mencoba/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:08:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\terus-mencoba/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\terus-mencoba\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\terus-mencoba\artisan on line 9
+[14-Sep-2024 14:37:07 UTC] PHP Warning:  require(C:\laragon\www\try-again/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\try-again\artisan on line 9
+[14-Sep-2024 14:37:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\try-again/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\try-again\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\try-again\artisan on line 9
+[14-Sep-2024 14:43:47 UTC] PHP Warning:  require(C:\laragon\www\try-again/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\try-again\artisan on line 9
+[14-Sep-2024 14:43:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\try-again/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\try-again\artisan:9
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\try-again\artisan on line 9
+[06-Nov-2024 15:55:48 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\PostResource.php on line 47
+[06-Nov-2024 15:56:32 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\PostResource.php on line 47
+[06-Nov-2024 15:56:40 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\PostResource.php on line 47
+[17-Nov-2024 08:02:58 UTC] PHP Fatal error:  Cannot use array as default value for property App\Filament\Resources\UserResource::$recordTitleAttribute of type ?string in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\UserResource.php on line 33
+[17-Nov-2024 08:03:03 UTC] PHP Fatal error:  Cannot use array as default value for property App\Filament\Resources\UserResource::$recordTitleAttribute of type ?string in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\UserResource.php on line 33
+[18-Nov-2024 16:47:38 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan on line 18
+[18-Nov-2024 16:47:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan on line 18
+[18-Nov-2024 16:48:07 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan on line 18
+[18-Nov-2024 16:48:07 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Dashboard Templates\LaravelSpladeFlowbitePanel-main\artisan on line 18
+[20-Nov-2024 06:01:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource.php on line 89
+[20-Nov-2024 06:30:01 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource.php on line 89
+[20-Nov-2024 06:33:08 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource.php on line 71
+[22-Nov-2024 04:08:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in C:\laragon\www\FinalAdoptCat\routes\web.php on line 30
+[26-Nov-2024 04:39:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:39:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:40:16 UTC] PHP Fatal error:  Cannot use Filament\Tables as Tables because the name is already in use in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 67
+[26-Nov-2024 04:40:16 UTC] PHP Fatal error:  Cannot use Filament\Tables as Tables because the name is already in use in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 67
+[26-Nov-2024 04:41:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:41:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:42:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:42:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:43:14 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:43:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:43:16 UTC] PHP Fatal error:  Cannot make non static method Filament\Resources\RelationManagers\RelationManager::form() static in class App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:44:16 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:44:16 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:45:16 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 04:45:16 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:17:34 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:17:34 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:17:34 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:41:51 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:41:51 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:41:51 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:43:49 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 05:43:49 UTC] PHP Fatal error:  Could not check compatibility between App\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager::form(App\Filament\Resources\CatResource\RelationManagers\Form $form): App\Filament\Resources\CatResource\RelationManagers\Form and Filament\Resources\RelationManagers\RelationManager::form(Filament\Forms\Form $form): Filament\Forms\Form, because class App\Filament\Resources\CatResource\RelationManagers\Form is not available in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\CatResource\RelationManagers\AdopsiPostRelationManager.php on line 94
+[26-Nov-2024 06:27:49 UTC] PHP Fatal error:  Cannot use Filament\Forms as Forms because the name is already in use in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\AdopsiPostResource\RelationManagers\CatRelationManager.php on line 12
+[26-Nov-2024 06:27:49 UTC] PHP Fatal error:  Cannot use Filament\Forms as Forms because the name is already in use in C:\laragon\www\FinalAdoptCat\app\Filament\Resources\AdopsiPostResource\RelationManagers\CatRelationManager.php on line 12
+[27-Nov-2024 20:19:20 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:23 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:23 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:32 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:38 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../symfony/string/Resources/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('b6b991a57620e2f...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:48 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../laravel/prompts/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../laravel/prompts/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('47e1160838b5e5a...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:59 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:19:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:06 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:16 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:22 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:30 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:31 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:50 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:56 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:20:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:00 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:18 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:41 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:45 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:21:45 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/support/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('e125f489d647ae6...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:58 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:22:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:14 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 C:\laragon\www\FinalAdoptCat\artisan(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:19 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:22 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:30 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:30 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:33 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:33 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:44 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:46 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:46 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 C:\laragon\www\FinalAdoptCat\public\index.php(12): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:54 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:55 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:55 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/forms/src/helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('2ad94ea6f6f6013...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:58 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:23:58 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../myclabs/deep-copy/src/DeepCopy/deep_copy.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('6124b4c8570aa39...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 C:\laragon\www\FinalAdoptCat\public\index.php(12): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:11 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:11 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:22 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:22 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:32 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:35 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:35 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 C:\laragon\www\FinalAdoptCat\artisan(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:24:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:11 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:11 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:20 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:29 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 Command line code(1): require_once('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:43 UTC] PHP Warning:  require(C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php): Failed to open stream: No such file or directory in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[27-Nov-2024 20:25:43 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\FinalAdoptCat\vendor\composer/../filament/filament/src/global_helpers.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php:55
+Stack trace:
+#0 C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php(38): composerRequiree966f9b8b6d0d9c535150b78e8c79d0b('89e9938b64b06cc...', 'C:\\laragon\\www\\...')
+#1 C:\laragon\www\FinalAdoptCat\vendor\autoload.php(12): ComposerAutoloaderInite966f9b8b6d0d9c535150b78e8c79d0b::getLoader()
+#2 C:\laragon\www\FinalAdoptCat\artisan(9): require('C:\\laragon\\www\\...')
+#3 {main}
+  thrown in C:\laragon\www\FinalAdoptCat\vendor\composer\autoload_real.php on line 55
+[28-Nov-2024 06:58:00 UTC] PHP Fatal error:  Cannot use positional argument after named argument in C:\laragon\www\FinalAdoptCat\app\Http\Controllers\AdopsiPostController.php on line 105
+[22-Feb-2025 18:47:42 Asia/Jakarta] PHP Fatal error:  A void function must not return a value in C:\laragon\www\ppdb\app\View\Composers\YearVisibleComposer.php on line 25
+[24-Feb-2025 18:40:52 UTC] PHP Fatal error:  Trait "App\Models\HasFactory" not found in C:\laragon\www\doctor-app-laravel\app\Models\UserDetails.php on line 7
+[12-Jun-2025 16:14:14 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[12-Jun-2025 16:14:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[16-Jun-2025 02:25:14 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[16-Jun-2025 02:25:14 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[16-Jun-2025 02:25:15 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[16-Jun-2025 02:25:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\manajemen_sekolah\manajemen_sekolah\artisan on line 10
+[29-Jun-2025 15:03:42 UTC] PHP Warning:  require(includes/functions.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[29-Jun-2025 15:03:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[29-Jun-2025 15:04:00 UTC] PHP Warning:  require(../includes/functions.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[29-Jun-2025 15:04:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../includes/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[29-Jun-2025 15:04:16 UTC] PHP Warning:  require(includes/functions.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[29-Jun-2025 15:04:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/functions.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php:3
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\uas-nexora\index.php on line 3
+[14-Jul-2025 17:17:48 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\laravel-fortify-stream/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\laravel-fortify-stream\artisan on line 18
+[14-Jul-2025 17:17:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\laravel-fortify-stream/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\laravel-fortify-stream\artisan:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\laravel-fortify-stream\artisan on line 18
+[22-Jul-2025 13:53:08 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\laravel_filament/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\laravel_filament\artisan on line 10
+[22-Jul-2025 13:53:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\laravel_filament/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\laravel_filament\artisan:10
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\laravel_filament\artisan on line 10
+[28-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', 'C:\\Users\\Thinkp...', 52)
+#1 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Thinkp...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\laravel\framework\src\Illuminate\Collections\Arr.php(700): array_filter(Array, Object(Closure), 1)
+#7 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\laravel\framework\src\Illuminate\Collections\Collection.php(345): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Adapters\Laravel\IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\filp\whoops\src\Whoops\Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\MergeConflictSolutionProvider.php on line 52
+[28-Jul-2025 02:47:07 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', 'C:\\Users\\Thinkp...', 52)
+#1 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(571): include()
+#2 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\composer\ClassLoader.php(428): Composer\Autoload\includeFile('C:\\Users\\Thinkp...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\laravel\framework\src\Illuminate\Collections\Arr.php(700): array_filter(Array, Object(Closure), 1)
+#7 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\laravel\framework\src\Illuminate\Collections\Collection.php(345): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Adapters\Laravel\IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\nunomaduro\collision\src\Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\filp\whoops\src\Whoops\Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\aplikasi-pengajuan-judul-ta-berbasis-web-laravel\pengajuan\vendor\facade\ignition\src\SolutionProviders\MergeConflictSolutionProvider.php on line 52
+[28-Jul-2025 03:21:51 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\bootstrap/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\bootstrap\autoload.php on line 17
+[28-Jul-2025 03:21:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\bootstrap/../vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\bootstrap\autoload.php:17
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\artisan(16): require()
+#1 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\sibita-sistem-informasi-bimbingan-tugas-akhir-master\bootstrap\autoload.php on line 17
+[08-Aug-2025 08:19:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:19:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:25:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:25:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:26:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:26:05 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:26:06 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown database 'db_kamcup_crud' in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php:7
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'db_kamcup_crud')
+#1 C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php(2): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\connection.php on line 7
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 96
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 96
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 100
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 100
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 104
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 104
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 108
+[08-Aug-2025 08:52:29 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\index.php on line 108
+[08-Aug-2025 09:03:51 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 77
+[08-Aug-2025 09:03:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 77
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "telp" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 85
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "telp" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 85
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "telp" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 85
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "telp" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 85
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "telp" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 85
+[08-Aug-2025 09:06:58 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:09:18 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:09:18 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:09:18 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:09:18 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:09:18 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 91
+[08-Aug-2025 09:10:09 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 93
+[08-Aug-2025 09:10:09 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 93
+[08-Aug-2025 09:10:09 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 93
+[08-Aug-2025 09:10:09 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 93
+[08-Aug-2025 09:10:09 UTC] PHP Warning:  Undefined array key "nama" in C:\Users\Thinkpad\Documents\Code\kamcup crud\manage.php on line 93
+[08-Aug-2025 09:51:07 UTC] PHP Warning:  move_uploaded_file(thumbnails/6895c88b13140.png): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\kamcup crud\create.php on line 18
+[08-Aug-2025 09:51:07 UTC] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\Users\Thinkpad\AppData\Local\Temp\php3D1F.tmp&quot; to &quot;thumbnails/6895c88b13140.png&quot; in C:\Users\Thinkpad\Documents\Code\kamcup crud\create.php on line 18
+[08-Aug-2025 10:39:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '>? $row['id'] ?>' at line 1 in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php:6
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php(6): mysqli->query('SELECT * FROM a...')
+#1 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:41:27 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:41:27 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - mysqli_result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:33 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:33 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - mysqli_result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:35 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:35 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - mysqli_result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:36 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 10:42:36 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: null - mysqli_result in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php:6
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\detail.php on line 6
+[08-Aug-2025 11:45:14 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 101
+[08-Aug-2025 11:45:14 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 112
+[08-Aug-2025 11:45:14 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 118
+[08-Aug-2025 11:45:14 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 124
+[08-Aug-2025 11:56:21 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:56:21 UTC] PHP Warning:  Attempt to read property "num_rows" on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:56:21 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:56:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:57:00 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:57:00 UTC] PHP Warning:  Attempt to read property "num_rows" on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:57:00 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:57:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:57:06 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:57:06 UTC] PHP Warning:  Attempt to read property "num_rows" on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 12
+[08-Aug-2025 11:57:06 UTC] PHP Warning:  Undefined variable $result in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:57:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 17
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 106
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 106
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 126
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 126
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 132
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 132
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Undefined variable $row in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 138
+[08-Aug-2025 11:57:38 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\Thinkpad\Documents\Code\kamcup crud\edit.php on line 138
+[09-Aug-2025 10:25:20 UTC] PHP Warning:  require(C:\Users\Thinkpad\Documents\Code\Kamcup/vendor/autoload.php): Failed to open stream: No such file or directory in C:\Users\Thinkpad\Documents\Code\Kamcup\artisan on line 18
+[09-Aug-2025 10:25:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Thinkpad\Documents\Code\Kamcup/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\Users\Thinkpad\Documents\Code\Kamcup\artisan:18
+Stack trace:
+#0 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\Kamcup\artisan on line 18
+[10-Aug-2025 14:09:49 UTC] PHP Fatal error:  Cannot use positional argument after named argument in C:\Users\Thinkpad\Documents\Code\project-uici\SISTA\routes\web.php on line 5
+[10-Aug-2025 14:27:08 UTC] PHP Fatal error:  Cannot declare class CreateBimbinganTable, because the name is already in use in C:\Users\Thinkpad\Documents\Code\project-uici\SISTA\database\migrations\2025_08_10_141737_create_bimbingans_table.php on line 7
+[22-Aug-2025 06:40:28 UTC] PHP Warning:  require(C:\laragon\www\kersa_2.0/vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\kersa_2.0\artisan on line 18
+[22-Aug-2025 06:40:28 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\kersa_2.0/vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\kersa_2.0\artisan:18
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\kersa_2.0\artisan on line 18
+[22-Aug-2025 17:21:43 UTC] PHP Fatal error:  Cannot declare class RemoveGalleryIdFromGalleryContents, because the name is already in use in C:\laragon\www\kersa_2.0\database\migrations\2025_04_29_172120_update_gallery_contents_and_gallery_subtitles.php on line 7
+[23-Aug-2025 21:20:06 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\DosenManagementController, because the name is already in use in C:\laragon\www\sista\app\Http\Controllers\Admin\DosenManagementController.php on line 9
+[23-Aug-2025 21:20:23 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\DosenManagementController, because the name is already in use in C:\laragon\www\sista\app\Http\Controllers\Admin\DosenManagementController.php on line 9
+[03-Sep-2025 01:10:31 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\config\databases.php:8
+Stack trace:
+#0 C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\config\databases.php(8): mysqli_connect('sql104.epizy.co...', 'epiz_32439584', Object(SensitiveParameterValue), 'epiz_32439584_b...')
+#1 C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\index.php(3): include('C:\\Users\\Thinkp...')
+#2 {main}
+  thrown in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\config\databases.php on line 8
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 150
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 168
+[03-Sep-2025 01:12:06 Asia/Jakarta] PHP Warning:  Undefined variable $selected in C:\Users\Thinkpad\Documents\Code\project-uici\PHP-Native-Simple-Bimbingan-Skripsi-Online\public\register.php on line 168
+[03-Sep-2025 22:59:37 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\MatchController, because the name is already in use in C:\laragon\www\kamcup\app\Http\Controllers\MatchController.php on line 11
+[06-Sep-2025 03:35:30 UTC] PHP Warning:  require(C:\laragon\www\indiegologi_laravel\public/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\laragon\www\indiegologi_laravel\public\index.php on line 34
+[06-Sep-2025 03:35:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\laragon\www\indiegologi_laravel\public/../vendor/autoload.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\indiegologi_laravel\public\index.php:34
+Stack trace:
+#0 {main}
+  thrown in C:\laragon\www\indiegologi_laravel\public\index.php on line 34
+[08-Sep-2025 16:09:26 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in C:\laragon\www\Kersa_2.0\routes\web.php on line 127
+[08-Sep-2025 16:09:34 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Route as Route because the name is already in use in C:\laragon\www\Kersa_2.0\routes\web.php on line 127

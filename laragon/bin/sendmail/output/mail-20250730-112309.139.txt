@@ -1,0 +1,23 @@
+To: admin@email.com
+Subject: =?us-ascii?Q?[Omnis_ratione_eu_aut]_Your_site_has_updated_to?=
+ =?us-ascii?Q?_WordPress_6.8.2?=
+Date: Wed, 30 Jul 2025 04:23:09 +0000
+From: WordPress <wordpress@test.test>
+Message-ID: <nJNiELFg8JVGNBjTTQaoj5ekUnELG4y6waegooa7980@test.test>
+X-Mailer: PHPMailer 6.9.3 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at http://test.test has been updated automatically to WordPress 6.8.2.
+
+No further action is needed on your part. For more on version 6.8.2, see the About WordPress screen:
+http://test.test/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+You also have some plugins or themes with updates available. Update them now:
+http://test.test/wp-admin/
+
+The WordPress Team
+
